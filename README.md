@@ -15,12 +15,6 @@ A local, privacy-friendly AI chatbot that lets you **ask questions about one or 
 
 ---
 
-## 📸 Demo Screenshot
-
-*(Optional: Add a screenshot here if you want)*
-
----
-
 ## 📆 Installation
 
 ### 1. Clone the repository
