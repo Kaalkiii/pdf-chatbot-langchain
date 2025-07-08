@@ -1,9 +1,3 @@
-# pdf-chatbot-langchain
-Chat with your PDFs locally using LangChain, Chroma, and Ollama — no API key required. Built with Streamlit.
-📄 README.md
-markdown
-Copy
-Edit
 # 🤖 PDF Chatbot with LangChain + Ollama + Streamlit
 
 A local, privacy-friendly AI chatbot that lets you **ask questions about one or more PDF files** using LLMs running **fully offline via Ollama**.
